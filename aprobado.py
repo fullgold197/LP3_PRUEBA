@@ -9,4 +9,4 @@ def determinaraprobado(promedio):
     return resultado
 
 promedio=int(input(f"Promedio: "))
-print(determinaraprobado(-5))
+print(determinaraprobado(promedio))
